@@ -5,6 +5,7 @@
 * [VSCode](https://code.visualstudio.com/download)
 * [Bitwarden](https://bitwarden.com/download/)
 * [BetterTouchTool](https://folivora.ai/downloads)
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 * [Spotify](https://www.spotify.com/us/download/mac/)
 * [Docker](https://docs.docker.com/desktop/install/mac-install/)
 
