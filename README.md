@@ -146,6 +146,10 @@ Install python
 ```
 brew install python3
 ```
+Install [uv](https://github.com/astral-sh/uv)
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
 ### Rust
 Install rust
