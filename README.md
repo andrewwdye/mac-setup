@@ -138,7 +138,7 @@ git config --global submodule.recurse true
 ### Go
 Install go
 ```
-brew instal golang
+brew install golang
 ```
 
 ### Python
