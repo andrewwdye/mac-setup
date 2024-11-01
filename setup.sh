@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Install Apple's command line tools
+# Install Xcode Command Line Tools
 xcode-select --install
 
 # Install Homebrew
